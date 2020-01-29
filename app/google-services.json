@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868449971614",
+    "firebase_url": "https://trackall-316ae.firebaseio.com",
+    "project_id": "trackall-316ae",
+    "storage_bucket": "trackall-316ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868449971614:android:7967693fb64f47b1887a8f",
+        "android_client_info": {
+          "package_name": "com.example.trackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868449971614-vqfm93iueri0k5o59r6kkdjor9hon5gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackme",
+            "certificate_hash": "fed10e4a7c4d32b5fcbcd810f15c9a0c2ca461df"
+          }
+        },
+        {
+          "client_id": "868449971614-e9p133u2n27rosrrln4st3th33acbpu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9QhP9X_G2-4XyhzHOKT8ROWe0yC_Dpw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868449971614-e9p133u2n27rosrrln4st3th33acbpu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
